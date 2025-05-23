@@ -12,7 +12,7 @@ The Blood Donation Management System is a PHP-based web application designed to 
 ## 🛠️ Technologies Used
 - PHP
 - MySQL
-- HTML & CSS
+- HTML & TailwindCSS
 
 ## 📷 Screenshots
 ![Screenshot 2025-03-07 213058](https://github.com/user-attachments/assets/4d1b240c-13c5-4095-a1c6-eb403a4600bc)
